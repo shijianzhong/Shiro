@@ -11,7 +11,7 @@ import {
 } from '~/providers/root/aggregation-data-provider'
 
 export const SiteOwnerAvatar: Component = ({ className }) => {
-  const avatar = useAggregationSelector((data) => data.user.avatar)
+  const avatar = "https://jsd.cdn.zzko.cn/gh/shijianzhong/picx-images-hosting@master/mx-space/IMG_1719.1aosrxkacs.webp"//useAggregationSelector((data) => data.user.avatar)
   const liveId = useAppConfigSelector(
     (config) => config.module?.bilibili?.liveId,
   )
