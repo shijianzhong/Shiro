@@ -18,7 +18,7 @@
           },
           {
             "name": "关于此项目",
-            "href": "https://github.com/innei/Shiro",
+            "href": "https://github.com/shijianzhong/Shiro",
             "external": true
           }
         ]
@@ -50,12 +50,12 @@
           },
           {
             "name": "发邮件",
-            "href": "mailto:i@innei.ren",
+            "href": "mailto:shijianzhongg@icloud.com",
             "external": true
           },
           {
             "name": "GitHub",
-            "href": "https://github.com/innei",
+            "href": "https://github.com/shijianzhong",
             "external": true
           }
         ]
@@ -87,7 +87,7 @@
           },
           {
             "type": "h1",
-            "text": "Innei",
+            "text": "sking",
             "class": "font-medium mx-2 text-4xl"
           },
           {
@@ -100,7 +100,7 @@
           },
           {
             "type": "h1",
-            "text": "A NodeJS Full Stack ",
+            "text": "A Full Stack ",
             "class": "font-light text-4xl"
           },
           {
