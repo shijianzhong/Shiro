@@ -166,7 +166,7 @@ const Hero = () => {
           <Image
             height={300}
             width={300}
-            src={avatar!}
+            src="https://jsd.cdn.zzko.cn/gh/shijianzhong/picx-images-hosting@master/mx-space/IMG_1719.1aosrxkacs.webp"
             alt="Site Owner Avatar"
             className={clsxm(
               'aspect-square rounded-full border border-slate-200 dark:border-neutral-800',
