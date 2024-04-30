@@ -163,7 +163,7 @@ const Hero = () => {
         <div
           className={clsx('lg:size-[300px]', 'size-[200px]', 'mt-24 lg:mt-0')}
         >
-          <Image
+          <img
             height={300}
             width={300}
             src="https://jsd.cdn.zzko.cn/gh/shijianzhong/picx-images-hosting@master/mx-space/IMG_1719.1aosrxkacs.webp"
